@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**vijayantyadav11/vijayantyadav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I am VIJAYANT YADAV , BTech student in Computer Science and Engineering at National Institute of Technology Patna, Bihar, India. 
 
 Here are some ideas to get you started:
 
