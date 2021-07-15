@@ -1,6 +1,6 @@
 #### Welcome 🙂 
 
-Hey, I am VIJAYANT YADAV, BTech junior student in Computer Science and Engineering at National Institute of Technology Patna, Bihar, India. Always ready to learn new stuffs and do practical work on the newly learnt stuff. 
+Hey, I am VIJAYANT YADAV, BTech senior student in Computer Science and Engineering at National Institute of Technology Patna, Bihar, India. Always ready to learn new stuffs and do practical work on the newly learnt stuff. 
 
 Here are some ideas to get you started:
 
